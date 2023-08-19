@@ -19,6 +19,7 @@
 # Linux - Installation(Kurulum):
 
 -git clone https://github.com/TheRwoxxi/IPTrack/
+
 -cd IPTrack
 
 # KULLANIM
