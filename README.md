@@ -31,6 +31,8 @@
 
 -cd IPTrack
 
+-python3 ıptrack.py
+
 # KULLANIM
 
 -Tek yapmanız gereken "Bir IP Adresi giriniz" yazan yere IP adresi girip Enter tuşuna basmanızdır.
