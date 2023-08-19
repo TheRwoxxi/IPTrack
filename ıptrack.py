@@ -18,7 +18,7 @@ while True:
                   [Created By Rwoxxi & aliēn]           
     """)
 
-    url = "http://ip-api.com/json/" + input("Bir IP Adresi giriniz: ") 
+    url = "http://ip-api.com/" + input("Bir IP Adresi giriniz: ") 
     response = requests.get(url)
     data = json.loads(response.text)
 
